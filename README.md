@@ -1,4 +1,4 @@
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
+
 
 # Flash-Chat
 
@@ -23,6 +23,7 @@ Flash Chat is an internet based messaging app similar to WhatsApp, the popular m
 * Learn about Swift loops and create animations using loops.
 * Learn about the App Lifecycle and how to use viewWillAppear or viewWillDisappear.
 * How to create direct Segues for navigation.
+* iOS Navigation Controller
 
 
 # Constants
@@ -49,7 +50,4 @@ struct K {
 }
 
 ```
-
->This is a companion project to The App Brewery's Complete App Developement Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
-
-![End Banner](Documentation/readme-end-banner.png)
+### To refer to videos -> https://www.udemy.com/course/ios-13-app-development-bootcamp/learn/lecture/16813258#overview (Videos 173-201)
